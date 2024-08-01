@@ -1,9 +1,6 @@
+# Pavel Vinogradov
 
-
-<p align="center">Pavel Vinogradov</p>
-================================= 
-<p align="center">Java Developer</p>
---------------
+## Java Developer
 
 I am an aspiring Java developer from Saint-Petersburg, Russia. I would love to work on your project!
 
