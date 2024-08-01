@@ -31,16 +31,12 @@ I am an aspiring Java developer from Saint-Petersburg, Russia. I would love to w
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=paulvino&repo=java-project-99&theme=github_dark#gh-dark-mode-only)](https://github.com/paulvino/java-project99#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=paulvino&repo=java-project-99&theme=default_repocard#gh-light-mode-only)](https://github.com/paulvino/java-project99#gh-light-mode-only)
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=paulvino&repo=java-project-72&theme=github_dark#gh-dark-mode-only)](https://github.com/paulvino/java-project72#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=paulvino&repo=java-project-72&theme=default_repocard#gh-light-mode-only)](https://github.com/paulvino/java-project72#gh-light-mode-only)
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=paulvino&repo=java-project-61&theme=github_dark#gh-dark-mode-only)](https://github.com/paulvino/java-project61#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=paulvino&repo=java-project-61&theme=default_repocard#gh-light-mode-only)](https://github.com/paulvino/java-project61#gh-light-mode-only)
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=paulvino&repo=java-project-71&theme=github_dark#gh-dark-mode-only)](https://github.com/paulvino/java-project71#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=paulvino&repo=java-project-71&theme=default_repocard#gh-light-mode-only)](https://github.com/paulvino/java-project71#gh-light-mode-only)
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=paulvino&repo=java-project-78&theme=github_dark#gh-dark-mode-only)](https://github.com/paulvino/java-project78#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=paulvino&repo=java-project-78&theme=default_repocard#gh-light-mode-only)](https://github.com/paulvino/java-project78#gh-light-mode-only)
 
